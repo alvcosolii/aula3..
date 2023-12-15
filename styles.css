@@ -1,0 +1,35 @@
+h1{
+    color: rgb(18, 117, 18);
+    font-size: 80px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+p{
+    color: rgb(18, 18, 133);
+    font-size: 30px    
+}
+h2{
+    color: rgb(26, 121, 26);
+    font-size: 50px;
+}
+.divisão1{
+    background-color: rgb(211, 211, 59);
+}
+.divisão2{
+    background-color: rgb(123, 158, 123);
+}
+.estilo{
+    color: blue;
+}
+h3{
+    color: rgb(18, 117, 18);
+    text-decoration-line: underline;
+    font-size: 50px;
+}
+h4{
+    color: rgb(18, 117, 18);
+    text-decoration-line: underline;
+    font-size: 50px;
+}
+
+    
